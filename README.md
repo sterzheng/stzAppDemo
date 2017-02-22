@@ -1,0 +1,2 @@
+# stzAppDemo
+all demo
